@@ -5,10 +5,17 @@
  
 <h1>使用環境</h1>
 ・docker</br>
+
 ・php</br>
+
 ・apache</br>
+
 ・mysql</br>
+
 ・laravelフレームワーク
+
+・aws S3
+
 ・awsサーバー
 
 <h1>進捗情報</h1>
