@@ -8,7 +8,8 @@
 ・php</br>
 ・apache</br>
 ・mysql</br>
-・laravel
+・laravelフレームワーク
+・awsサーバー
 
 <h1>進捗情報</h1>
 投稿一覧ページを作成完了、しかしlaravelプロジェクト本体(app/)の中身のファイルを何故かgithubにpushできないため現在解決中
